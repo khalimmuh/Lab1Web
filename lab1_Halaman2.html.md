@@ -1,10 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
     <title>Tutorial Link di HTML</title>
 </head>
 
+<body>
+
+</body>
+
+</html>
+    
 <body>
     <h1>About</h1>
     
