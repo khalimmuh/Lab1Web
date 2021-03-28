@@ -45,4 +45,9 @@ Elemen ini menampilkan isi dokumen HTML , Tag <body> dan tag </body> terletak di
 <h4>c.	Center </h4>
 <p>align center  membuat seluruh teks ke tengah halaman web, penulisannya align=”center”</p>
 
+<h4>d.	Right</h4> 
+<p>Align  membuat seluruh teks ke sisi kanan halaman web, penulisannya align=”right”</p>
+<h4>2.	Menambahkan judul </h4>
+<p>Heading merupakan sebuah judul yang biasanya digunakan pada sebuah halaman artikel pada web. Atau terkadang dibeberapa bagian dari halaman web. Judul atau heading pada HTML dapat digunakan dengan tag <h1> sampai <h6> . tag <h1> merupakan judul pada level pertama kemudian pada level berikutnya atau sub judul pada tag <h2> sampai dengan tag <h6>.</p>
+
 
