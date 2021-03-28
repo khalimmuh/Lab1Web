@@ -1,5 +1,13 @@
-# Label1Web
- Jawab Pertanyaan Berikut
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tag HTML Dasar</title>
+</head>
+<body>
+
+</body>
+</html>
+ <P>Jawab Pertanyaan Berikut
 
 1.	Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 HTML sebenarnya tidak pernah error, hanya saja tampilan di websitenya akan menjadi berantakan bila kita ada kesalahan dalam memberi format HTMLnya. Biasanya ada posisi tampilan yang ke atas, padahal kita maunya di bawah. Ada teksnya yang besar semua padahal kita maunya teks yang tertentu saja yang jadi besar. Dan tentunya pasti saja banyak keluhan-keluhan lainnya.
@@ -22,3 +30,4 @@ _blank, browser akan menampilkan atau akan memuat dokumen yang di link kedalam j
 _self , browser akan menampilkan atau memuat dokumen yang di link ke jendela atau ke frame yang sama dimana dokumen yang akan di tampilkan atau dimuat 
 _top , browser akan menampilkan atau memuat dokumen yang dilink kedalam jendela yang baru dan fullscreen atau tampilan jendela penuh.
 _parent , browser akan menampilkan atau memuat suatu dokumen yang dilink ke parent farme , yaitu bilan link pada child farme makan dokumen yang akan di link akan di tampilan ke parent frame 
+<P>
