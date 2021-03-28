@@ -60,7 +60,7 @@ Elemen ini menampilkan isi dokumen HTML , Tag <body> dan tag </body> terletak di
 <img src="24.png" width="200"> <img src="25.png" width="200">
 <h4>4.	Menyisipkan gambar </h4>
 <P>Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external. HTML mendukung banyak format gambar sepert : GIF, JPEG, PNG, WMF dll . Namun jika gambar ingin dikenali oleh browser , makan GIF dan JPEG adalah format yang paling cocok . untuk menambahkan gambar digunakan tag <IMG>. ingin mengatur ukuran gambar di HTML saya hanya menggunakan salah satu atribut width atau height saja.</P>
-  <img src="26.png" width="200"> <img src="27.png" width="200">
+  <img src="26.png" width="200"> <img src="27.png" width="200"> <img src="30.png" width="200">
   <h4>5.	Menambahkan Hyperlink</h4>
 <p>Link menjadi penghubung antara satu halaman dengan halaman lainnya . link merupakan suatu gambar atau teks yang terkait dengan suatu alamat tertentu . jika link di klik maka dokumen html akan menuju ke alamat tersebut . Ditandai dengan Anchor yaitu tag <a>. tag <a> mempunyai dua atribut yaitu HREF dan NAME . Atribut HREF digunakan jika sebuat Anchor akan digunakan sebagai link , sedangkan atribut NAME digunakan jika Anchor akan digunakan sebagai tujuan . </p>
 <img src="28.png" width="200"> <img src="29.png" width="200">
