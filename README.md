@@ -32,6 +32,7 @@ Elemen ini menampilkan isi dokumen HTML , Tag <body> dan tag </body> terletak di
 <p>Klik simpan dan kemudian buka menggunakan browser </p>
 <img src="8.png" width="200"> <img src="9.png" width="200">
 <h3>1.	Membuat paragraf</h3>
+<p>Penulisan paragraf bisa menggunakan tag p  , namun perlu di perhatikan tag p lebih baik di akhiri dengan tag/p.</p> 
 <img src="10.png" width="200"> <img src="11.png" width="200">
 <h3>Mengatur atribut paragraf</h3> 
 <p>Atribut align digunakan untuk menentukan mengatur paragraf. Ada bebrapa atribut align sebagai berikut : </p>
@@ -48,6 +49,6 @@ Elemen ini menampilkan isi dokumen HTML , Tag <body> dan tag </body> terletak di
 <h4>d.	Right</h4> 
 <p>Align  membuat seluruh teks ke sisi kanan halaman web, penulisannya align=”right”</p>
 <h4>2.	Menambahkan judul </h4>
-<p>Heading merupakan sebuah judul yang biasanya digunakan pada sebuah halaman artikel pada web. Atau terkadang dibeberapa bagian dari halaman web. Judul atau heading pada HTML dapat digunakan dengan tag <h1> sampai <h6> . tag <h1> merupakan judul pada level pertama kemudian pada level berikutnya atau sub judul pada tag <h2> sampai dengan tag <h6>.</p>
+<p>Heading merupakan sebuah judul yang biasanya digunakan pada sebuah halaman artikel pada web. Atau terkadang dibeberapa bagian dari halaman web. Judul atau heading pada HTML dapat digunakan dengan tag h1 sampai h6 . tag h1 merupakan judul pada level pertama kemudian pada level berikutnya atau sub judul pada tag h2 sampai dengan tag h6.</p>
 
 
