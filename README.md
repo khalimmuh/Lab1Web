@@ -52,8 +52,10 @@ Elemen ini menampilkan isi dokumen HTML , Tag <body> dan tag </body> terletak di
 <p>Heading merupakan sebuah judul yang biasanya digunakan pada sebuah halaman artikel pada web. Atau terkadang dibeberapa bagian dari halaman web. Judul atau heading pada HTML dapat digunakan dengan tag h1 sampai h6 . tag h1 merupakan judul pada level pertama kemudian pada level berikutnya atau sub judul pada tag h2 sampai dengan tag h6.</p>
 <h4>3.	Memformat teks</h4>
 <p>Adapun untuk memformat tulisan/teks biasanya menggunakan berbagai macam tag sesuai dengan keperluan , sebagai berikut :<p>
-<p>a.	<b> digunakan untuk membuat teks tercetak tebal ,</p>
-<p>b.	<i> digunakan untuk membuat teks tercetak miring,</p>
-<p>c.	<u> untuk membuat teks yang memiliki Gaya yang berbeda dari teks biasa lainnya</p> 
+<p>a.	b digunakan untuk membuat teks tercetak tebal ,</p>
+<p>b.	i digunakan untuk membuat teks tercetak miring,</p>
+<p>c.	u untuk membuat teks yang memiliki Gaya yang berbeda dari teks biasa lainnya</p> 
 
+<h4>4.	Menyisipkan gambar </h4>
+<P>Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external. HTML mendukung banyak format gambar sepert : GIF, JPEG, PNG, WMF dll . Namun jika gambar ingin dikenali oleh browser , makan GIF dan JPEG adalah format yang paling cocok . untuk menambahkan gambar digunakan tag <IMG>. ingin mengatur ukuran gambar di HTML saya hanya menggunakan salah satu atribut width atau height saja.</P>
 
