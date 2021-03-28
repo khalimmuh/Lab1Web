@@ -52,8 +52,8 @@ Elemen ini menampilkan isi dokumen HTML , Tag <body> dan tag </body> terletak di
 <p>Heading merupakan sebuah judul yang biasanya digunakan pada sebuah halaman artikel pada web. Atau terkadang dibeberapa bagian dari halaman web. Judul atau heading pada HTML dapat digunakan dengan tag h1 sampai h6 . tag h1 merupakan judul pada level pertama kemudian pada level berikutnya atau sub judul pada tag h2 sampai dengan tag h6.</p>
 <h4>3.	Memformat teks</h4>
 <p>Adapun untuk memformat tulisan/teks biasanya menggunakan berbagai macam tag sesuai dengan keperluan , sebagai berikut :<p>
-<p>a.	<b> digunakan untuk membuat teks tercetak tebal ,</p>
-<p>b.	<i> digunakan untuk membuat teks tercetak miring,</p>
-<p>c.	<u> untuk membuat teks yang memiliki Gaya yang berbeda dari teks biasa lainnya</p> 
+<p>a.	<b></b> digunakan untuk membuat teks tercetak tebal ,</p>
+<p>b.	<i></i> digunakan untuk membuat teks tercetak miring,</p>
+<p>c.	<u></u> untuk membuat teks yang memiliki Gaya yang berbeda dari teks biasa lainnya</p> 
 
 
