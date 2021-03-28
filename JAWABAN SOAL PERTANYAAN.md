@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Tag HTML Dasar</title>
 </head>
 <body>
 
