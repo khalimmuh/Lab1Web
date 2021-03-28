@@ -1,4 +1,3 @@
-# Label1Web
 <!DOCTYPE html>
 <html lang="en">
 
