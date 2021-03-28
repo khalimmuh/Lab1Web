@@ -33,6 +33,6 @@ Elemen ini menampilkan isi dokumen HTML , Tag <body> dan tag </body> terletak di
 <img src="8.png" width="200"> <img src="9.png" width="200">
 <p>1.	Membuat paragraf</p>
 <img src="10.png" width="200"> <img src="11.png" width="200">
-<p>Mengatur atribut paragraf 
-Atribut align digunakan untuk menentukan mengatur paragraf. Ada bebrapa atribut align sebagai berikut : <p>
+<p>Mengatur atribut paragraf</p> 
+<p>Atribut align digunakan untuk menentukan mengatur paragraf. Ada bebrapa atribut align sebagai berikut : </p>
 
