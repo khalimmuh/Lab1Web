@@ -27,5 +27,6 @@ Elemen HEAD kepala dari dokumen HTML . Tag <head> dan tag </head> terletak diant
 c.	TITLE 
 Elemen TITLE merupakan judul dari dokumen HTML yang ditampilkan pada judul jendela browser . Tag <title> dan tag </title> terletak diantara tag <head> dan tag </head>
 d.	BODY 
-Elemen ini menampilkan isi dokumen HTML , Tag <body> dan tag </body> terletak di bawah tag <head> dan tag </head>. <P>
+Elemen ini menampilkan isi dokumen HTML , Tag <body> dan tag </body> terletak di bawah tag <head> dan tag </head>. </P>
 <img src="9.png" width="250">
+<p>Klik simpan dan kemudian buka menggunakan browser </p>
