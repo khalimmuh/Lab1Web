@@ -30,3 +30,4 @@ Elemen TITLE merupakan judul dari dokumen HTML yang ditampilkan pada judul jende
 Elemen ini menampilkan isi dokumen HTML , Tag <body> dan tag </body> terletak di bawah tag <head> dan tag </head>. </P>
 <img src="7.png" width="250">
 <p>Klik simpan dan kemudian buka menggunakan browser </p>
+<img src="8.png" width="200"> <img src="9.png" width="200">
