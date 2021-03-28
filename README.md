@@ -12,7 +12,7 @@
 </html>
 <h1>PENJELASAN DARI SETIAP TAHAPAN PRAKTIKUM</h1>
 <p>Pertama membuat folder untuk menyimpan untuk menyimpan file/project .</p>
-<img src="1.png"width="200">
+<img src="1.png"width="500">
 <p>persiapkan text editor visual studio code , jika sudah terbuka maka open folder yang sudah dibuat.
 .</p>
 <img src="2.png" width="200"> <img src="3.png" width="200">
