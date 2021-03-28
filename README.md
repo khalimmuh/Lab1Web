@@ -31,3 +31,5 @@ Elemen ini menampilkan isi dokumen HTML , Tag <body> dan tag </body> terletak di
 <img src="7.png" width="250">
 <p>Klik simpan dan kemudian buka menggunakan browser </p>
 <img src="8.png" width="200"> <img src="9.png" width="200">
+<p>1.	Membuat paragraf</p>
+<p>Penulisan paragraf bisa menggunakan tag <p>  , namun perlu di perhatikan tag <p> lebih baik di akhiri dengan tag</p> </p>
