@@ -36,3 +36,13 @@ Elemen ini menampilkan isi dokumen HTML , Tag <body> dan tag </body> terletak di
 <h3>Mengatur atribut paragraf</h3> 
 <p>Atribut align digunakan untuk menentukan mengatur paragraf. Ada bebrapa atribut align sebagai berikut : </p>
 
+<h4>a.	Justify </h4>
+<p>ALIGN: JUSTIFY digunakan untuk membuat text rata kiri dan kanan. Namun efek JUSTIFY ini perlu menjadi catatan. Membuat text rata kiri dan kanan sekaligus akan membuat web browser menambah jarak (spasi) antar kata, terutama untuk kata yang panjang. Dengan cara penulisannya Align=”justify”,</p>
+
+<h4>b.	Left </h4>
+<p>Membuat seluruh teks ke sisi kiri halaman web , penulisannya align=”left”</p>
+
+<h4>c.	Center </h4>
+<p>align center  membuat seluruh teks ke tengah halaman web, penulisannya align=”center”</p>
+
+
