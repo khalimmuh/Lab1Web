@@ -25,8 +25,8 @@ ALT teks, atau tag ALT seperti adalah atribut HTML yang menentukan teks alternat
 Pada pengaturan tag image , gambar terlihat tidak proporsional, hal ini karena penggunaan atribut width dan height memaksa . gambar untuk tampil dengan nilai yang kita tetapkan. Untuk mempertahankan proporsi gambar, namun tetap membuat gambar menjadi besar/kecil, cantumkan hanya salah satu atribut saja (width saja atau height saja, namun tidak keduanya). Misalkan jika kita menetapkan atribut width=300px (tanpa mencantumkan height), maka web browser akan menampilkan gambar dengan lebar 300px, dan menghitung secara otomatis tinggi gambar agar gambar tetap proporsional.
 
 5.	Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
-_blank, browser akan menampilkan atau akan memuat dokumen yang di link kedalam jendela  yang baru 
-_self , browser akan menampilkan atau memuat dokumen yang di link ke jendela atau ke frame yang sama dimana dokumen yang akan di tampilkan atau dimuat 
-_top , browser akan menampilkan atau memuat dokumen yang dilink kedalam jendela yang baru dan fullscreen atau tampilan jendela penuh.
-_parent , browser akan menampilkan atau memuat suatu dokumen yang dilink ke parent farme , yaitu bilan link pada child farme makan dokumen yang akan di link akan di tampilan ke parent frame 
+<P>_blank, browser akan menampilkan atau akan memuat dokumen yang di link kedalam jendela  yang baru </P>
+<P>_self , browser akan menampilkan atau memuat dokumen yang di link ke jendela atau ke frame yang sama dimana dokumen yang akan di tampilkan atau dimuat </P>
+<P>_top , browser akan menampilkan atau memuat dokumen yang dilink kedalam jendela yang baru dan fullscreen atau tampilan jendela penuh.</P>
+<p>_parent , browser akan menampilkan atau memuat suatu dokumen yang dilink ke parent farme , yaitu bilan link pada child farme makan dokumen yang akan di link akan di tampilan ke parent frame </P>
 </p>
