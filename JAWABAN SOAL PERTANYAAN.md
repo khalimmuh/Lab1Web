@@ -13,8 +13,8 @@ HTML sebenarnya tidak pernah error, hanya saja tampilan di websitenya akan menja
 
 Jadi, saat kita menambahkan beberapa script HTML dan saat scriptnya sudah panjang sekali sampai puluhan baris biasanya. Yang menjadi kebiasaannya adalah sering lupa dengan aturan penulisan tag HTMLnya. Khususnya yang berpasangan seperti tag “<body></body>“. 
 
-2.	Apa perbedaan dari tag<P> dengan tag <br>, berikan penjelasannya! 
-tag<br> digunakan hanya untuk ganti baris. Sedangkan tag<p>  digunakan untuk mengganti paragraf untuk memudahkan memahami isi dari halaman.
+2.	Apa perbedaan dari tag P dengan tag br, berikan penjelasannya! 
+tag br digunakan hanya untuk ganti baris. Sedangkan tag p  digunakan untuk mengganti paragraf untuk memudahkan memahami isi dari halaman.
 
 3.	Apa perbedaan atribut title dan alt pada tag <img> berikan penjelasannya!
 <P>Title image adalah atribut lain yang dapat ditambahkan ke tag gambar dalam HTML. Title image ini digunakan untuk memberikan judul untuk gambar Anda. Text yang Anda masukkan di dalam tag judul tidak akan ditampilkan kepada pengguna ketika gambar tidak dapat ditampilkan.</P>
