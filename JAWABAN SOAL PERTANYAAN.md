@@ -6,7 +6,7 @@
 
 </body>
 </html>
-<p ALIGN="JUSTIFY">Jawab Pertanyaan Berikut
+<p align="justify">Jawab Pertanyaan Berikut
 
 1.	Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
 HTML sebenarnya tidak pernah error, hanya saja tampilan di websitenya akan menjadi berantakan bila kita ada kesalahan dalam memberi format HTMLnya. Biasanya ada posisi tampilan yang ke atas, padahal kita maunya di bawah. Ada teksnya yang besar semua padahal kita maunya teks yang tertentu saja yang jadi besar. Dan tentunya pasti saja banyak keluhan-keluhan lainnya.
